@@ -24,3 +24,4 @@ bun run dev
 
 # 5. On your browser navigate to http://localhost:5173/
 ```
+"This is great for your taco dreams"
